@@ -1,5 +1,6 @@
 # RODA
-**Retail Order Data Analysis** 
+Retail Order Data Analysis
+
 Using Kaggle Api, Python, SQL, Streamlit to analyze and optimize sales performance by identifying key trends, top-performing products, and growth opportunities using a dataset of sales transactions.
 Data set is downloaded from: !kaggle datasets download ankitbansal06/retail-orders -f orders.csv
 Extracted zip file using python code in Jupyter Notebook.
